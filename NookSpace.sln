@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NookSpace", "NookSpace.csproj", "{DA91EEFC-1D39-451C-BCB5-5E8C9BCEF79C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA91EEFC-1D39-451C-BCB5-5E8C9BCEF79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA91EEFC-1D39-451C-BCB5-5E8C9BCEF79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA91EEFC-1D39-451C-BCB5-5E8C9BCEF79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA91EEFC-1D39-451C-BCB5-5E8C9BCEF79C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE3215B8-D0A7-4B5B-B539-5F0E84850967}
+	EndGlobalSection
+EndGlobal
